@@ -1,6 +1,7 @@
 import { useState, useReducer, useEffect } from "react";
 import "./App.css";
 
+//Expense Tracker
 // components imports
 import ExpenseForm from "./components/ExpenseForm/ExpenseForm";
 import ExpenseInfo from "./components/ExpenseInfo/ExpenseInfo";
